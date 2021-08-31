@@ -1,9 +1,9 @@
  Ola, Eu sou o Marcelo Desenvolvedor com Conhecimentos nos elementos abaixo:
-		* Visual Studio .Net
-		* MS SQL Server / oracle
-		* HTML / css / JS
-	 Framework:
-		* Scrum
+		<br>* Visual Studio .Net</br>
+		<br>* MS SQL Server / oracle</br>
+		<br>* HTML / css / JS</br>
+	 <br>Framework:<br>
+		<br>* Scrum</br>
  <div>
   <a href="https://github.com/Marcelowwww">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelowwww&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
