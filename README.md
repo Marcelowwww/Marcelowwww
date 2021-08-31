@@ -6,8 +6,6 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp;* Scrum</br>
  <div>
   <a href="https://github.com/marcelowwww">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelowwww&show_icons=true&theme=White&include_all_commits=true&count_private=true"/>
-  <a href="https://github.com/marcelowwww">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelowwww&layout=compact&langs_count=8&theme=white"/>
 </div>	
 <div style="display: inline_block"><br>
