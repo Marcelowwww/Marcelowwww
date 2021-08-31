@@ -1,9 +1,9 @@
 <br>Ola, eu sou o Marcelo Desenvolvedor com Conhecimentos nos elementos abaixo:</br>
-<br>                &nbsp; 		* Visual Studio .Net</br>
-<br>				&nbsp;  	* MS SQL Server / oracle</br>
-<br>				&nbsp;  	* HTML / css / JS</br>
-<br>				&nbsp; Framework:<br>
-<br>				&nbsp;		* Scrum</br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;* Visual Studio .Net</br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;* MS SQL Server / oracle</br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;* HTML / css / JS</br>
+<br>&nbsp;&nbsp;Framework:<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;* Scrum</br>
  <div>
   <a href="https://github.com/Marcelowwww">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelowwww&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
