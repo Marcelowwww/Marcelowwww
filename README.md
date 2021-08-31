@@ -1,14 +1,9 @@
-# Ola, Eu sou o Marcelo Desenvolvedor com Conhecimentos nos elementos abaixo:
-
-#		* Visual Studio .Net
-
-#		* MS SQL Server / oracle
-
-#		* HTML / css / JS
-
-#	 Framework:
-
-#		* Scrum
+ Ola, Eu sou o Marcelo Desenvolvedor com Conhecimentos nos elementos abaixo:
+		* Visual Studio .Net
+		* MS SQL Server / oracle
+		* HTML / css / JS
+	 Framework:
+		* Scrum
  <div>
   <a href="https://github.com/Marcelowwww">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelowwww&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -19,6 +14,7 @@
   <img align="center" alt="Cel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/Marcelowwww/Marcelowwww/master/.github/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Cel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/Marcelowwww/Marcelowwww/master/.github/icons/oracle/oracle-original.svg">
   <img align="center" alt="Cel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/Marcelowwww/Marcelowwww/master/.github/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Cel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/Marcelowwww/Marcelowwww/master/.github/icons/visualstudio/visualstudio-plain-wordmark.svg">
 </div>
   
   ##
