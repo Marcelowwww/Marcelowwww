@@ -1,34 +1,25 @@
-## Ola, Eu sou o Marcelo Desenvolvedor com Conhecimentos nos elementos abaixo:
+# Ola, Eu sou o Marcelo Desenvolvedor com Conhecimentos nos elementos abaixo:
 
-##		* Visual Studio .Net
+#		* Visual Studio .Net
 
-##		* MS SQL Server / oracle
+#		* MS SQL Server / oracle
 
-##		* HTML / css / JS
+#		* HTML / css / JS
 
-##	Framework:
+#	 Framework:
 
-##		* Scrum
+#		* Scrum
  <div>
   <a href="https://github.com/Marcelowwww">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelowwww&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelowwww&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Cel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Cel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Cel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Cel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Cel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Cel-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="center" alt="Cel-Csharp" height="30" width="40" src="https://github.com/Marcelowwww/Marcelowwww/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Cel-Csharp" height="30" width="40" src="https://github.com/Marcelowwww/Marcelowwww/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Cel-Csharp" height="30" width="40" src="https://github.com/Marcelowwww/Marcelowwww/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Cel-Csharp" height="30" width="40" src="https://github.com/Marcelowwww/Marcelowwww/master/icons/csharp/csharp-original.svg">
 </div>
   
   ##
  
-<div> 
-
-  ![Snake animation](https://github.com/Marcelowwww/Marcelowwww/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
