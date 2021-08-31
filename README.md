@@ -4,10 +4,6 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp;* HTML / css / JS</br>
 <br>&nbsp;&nbsp;Framework:<br>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;* Scrum</br>
- <div>
-  <a href="https://github.com/marcelowwww">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelowwww&layout=compact&langs_count=8&theme=white"/>
-</div>	
 <div style="display: inline_block"><br>
   <img align="center" alt="Cel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/Marcelowwww/Marcelowwww/master/.github/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Cel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/Marcelowwww/Marcelowwww/master/.github/icons/mysql/mysql-original-wordmark.svg">
